@@ -1,2 +1,2 @@
-- Ran monte carlo simulation to optimize weights for portfolio allocation amongst 6 stocks, to achieve minimal risk, maximal return or maximal sharpe ratio.
-- A maximal sharpe ratio of 1.389 was achieved.
+### Results
+A maximal sharpe ratio of 1.389 was achieved.
